@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Love Calculator</string>
+    <string name="name">Love calculator</string>
+    <string name="forget">Forget password</string>
+    <string name="login">LOGIN</string>
+    <string name="create_new">Create an account !</string>
+    <string name="aboutandprivacy">About | Privacy</string>
+    <string name="userhint">USERNAME</string>
+    <string name="passhint">PASSWORD</string>
+</resources>
